@@ -1,0 +1,67 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  background-color: #e0e0e0;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-bd {
+  padding: 1% 33%;
+  font-size: 32px;
+  font-family: "Sacramento", cursive;
+}
+
+.navhd {
+  background-color: #26577c;
+}
+
+.img1 {
+  padding: 2% 0;
+}
+
+img {
+  width: 400px;
+}
+
+.tb-dec {
+  padding: 2% 30%;
+  width: 100%;
+}
+
+.footer-con {
+  text-align: center;
+}
+
+.foot-hd {
+  color: #fff;
+  text-align: center;
+  padding: 1% 0 2% 0;
+}
+
+.last-text {
+  color: #fff;
+  padding: 4%;
+}
+
+.copy {
+  color: #fff;
+  text-align: center;
+  padding: 2% 0 0 0;
+}
+
+footer {
+  padding: 2%;
+  background-color: #26577c;
+}
+
+@media (max-width: 991px) {
+  .nav-bd {
+    padding: 0;
+    font-size: 40px;
+  }
+
+  .tb-dec {
+    padding: 0;
+  }
+}

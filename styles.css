@@ -1,0 +1,104 @@
+body {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.newnavtext {
+  color: #fff;
+  padding: 2% 0 2% 35%;
+  font-size: 50px;
+  font-style: italic;
+  display: inline-block;
+  font-family: "Sacramento", cursive;
+}
+
+#title {
+  background-color: #26577c;
+  color: #fff;
+  text-align: left;
+  padding: 0 0 30px;
+}
+
+.big-heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.5;
+  color: #fff;
+}
+
+.lukor-hd {
+  font-family: "Times New Roman", Times, serif;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+
+.feature-titles {
+  font-size: 1.5rem;
+}
+
+.middle-text {
+  padding: 5%;
+}
+
+.icon {
+  margin-bottom: 1rem;
+}
+
+.carousel-section {
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.car-image {
+  width: 400px;
+  height: 500px;
+}
+
+.new2 {
+  width: 600px;
+  height: 500px;
+}
+
+#carousel-section {
+  background-color: #26577c;
+}
+
+.car-header {
+  font-family: "Sacramento", cursive;
+  font-size: 3rem;
+  color: #fff;
+  padding: 2% 0;
+}
+
+.foot-hd {
+  padding: 1% 0 2% 0;
+}
+
+.last-text {
+  padding: 4%;
+}
+
+.copy {
+  padding: 2% 0 0 0;
+}
+
+@media (max-width: 991px) {
+  #title {
+    text-align: center;
+  }
+
+  .newnavtext {
+    font-size: 40px;
+    padding: 5% 0;
+  }
+
+  .bigger {
+    width: 400px;
+    height: 400px;
+  }
+
+  .car-header {
+    padding: 5% 0;
+  }
+}
