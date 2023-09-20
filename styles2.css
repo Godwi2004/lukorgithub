@@ -8,7 +8,7 @@ body {
 
 .nav-bd {
   padding: 1% 33%;
-  font-size: 32px;
+  font-size: 50px;
   font-family: "Sacramento", cursive;
 }
 
@@ -58,7 +58,7 @@ footer {
 @media (max-width: 991px) {
   .nav-bd {
     padding: 0;
-    font-size: 40px;
+    font-size: 35px;
   }
 
   .tb-dec {
